@@ -1,0 +1,10 @@
+C:\Users\marti\source\repos\Paractico1-Ejercicio8-TDI\Paractico1-Ejercicio8-TDI\bin\Debug\Paractico1-Ejercicio8-TDI.exe.config
+C:\Users\marti\source\repos\Paractico1-Ejercicio8-TDI\Paractico1-Ejercicio8-TDI\bin\Debug\Paractico1-Ejercicio8-TDI.exe
+C:\Users\marti\source\repos\Paractico1-Ejercicio8-TDI\Paractico1-Ejercicio8-TDI\bin\Debug\Paractico1-Ejercicio8-TDI.pdb
+C:\Users\marti\source\repos\Paractico1-Ejercicio8-TDI\Paractico1-Ejercicio8-TDI\obj\Debug\Paractico1-Ejercicio8-TDI.csproj.AssemblyReference.cache
+C:\Users\marti\source\repos\Paractico1-Ejercicio8-TDI\Paractico1-Ejercicio8-TDI\obj\Debug\Paractico1_Ejercicio8_TDI.Form1.resources
+C:\Users\marti\source\repos\Paractico1-Ejercicio8-TDI\Paractico1-Ejercicio8-TDI\obj\Debug\Paractico1_Ejercicio8_TDI.Properties.Resources.resources
+C:\Users\marti\source\repos\Paractico1-Ejercicio8-TDI\Paractico1-Ejercicio8-TDI\obj\Debug\Paractico1-Ejercicio8-TDI.csproj.GenerateResource.cache
+C:\Users\marti\source\repos\Paractico1-Ejercicio8-TDI\Paractico1-Ejercicio8-TDI\obj\Debug\Paractico1-Ejercicio8-TDI.csproj.CoreCompileInputs.cache
+C:\Users\marti\source\repos\Paractico1-Ejercicio8-TDI\Paractico1-Ejercicio8-TDI\obj\Debug\Paractico1-Ejercicio8-TDI.exe
+C:\Users\marti\source\repos\Paractico1-Ejercicio8-TDI\Paractico1-Ejercicio8-TDI\obj\Debug\Paractico1-Ejercicio8-TDI.pdb

@@ -30,7 +30,7 @@ namespace Paractico1_Ejercicio8_TDI
         private void InitializeComponent()
         {
             this.tittleLabel = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.textBox = new System.Windows.Forms.TextBox();
             this.cuilLabel = new System.Windows.Forms.Label();
             this.verifiedLabel = new System.Windows.Forms.Label();
             this.validateButton = new System.Windows.Forms.Button();
@@ -46,13 +46,13 @@ namespace Paractico1_Ejercicio8_TDI
             this.tittleLabel.TabIndex = 0;
             this.tittleLabel.Text = "Validador de CUIT/CUIL";
             // 
-            // textBox1
+            // textBox
             // 
-            this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox1.Location = new System.Drawing.Point(84, 163);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(263, 38);
-            this.textBox1.TabIndex = 1;
+            this.textBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox.Location = new System.Drawing.Point(84, 163);
+            this.textBox.Name = "textBox";
+            this.textBox.Size = new System.Drawing.Size(263, 38);
+            this.textBox.TabIndex = 1;
             // 
             // cuilLabel
             // 
@@ -81,6 +81,7 @@ namespace Paractico1_Ejercicio8_TDI
             this.validateButton.TabIndex = 4;
             this.validateButton.Text = "Validar";
             this.validateButton.UseVisualStyleBackColor = true;
+            this.validateButton.Click += new System.EventHandler(this.validateButton_Click);
             // 
             // Form1
             // 
@@ -90,7 +91,7 @@ namespace Paractico1_Ejercicio8_TDI
             this.Controls.Add(this.validateButton);
             this.Controls.Add(this.verifiedLabel);
             this.Controls.Add(this.cuilLabel);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.textBox);
             this.Controls.Add(this.tittleLabel);
             this.Name = "Form1";
             this.Text = "Form1";
@@ -102,7 +103,7 @@ namespace Paractico1_Ejercicio8_TDI
         #endregion
 
         private System.Windows.Forms.Label tittleLabel;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox textBox;
         private System.Windows.Forms.Label cuilLabel;
         private System.Windows.Forms.Label verifiedLabel;
         private System.Windows.Forms.Button validateButton;
